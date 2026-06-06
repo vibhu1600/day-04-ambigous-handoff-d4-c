@@ -48,6 +48,22 @@ You are responsible for:
 - rejecting unsafe or overbuilt scope
 - sending a founder-ready execution update
 
+## Provided To Solve The Case
+
+- Student challenge brief
+- HireSignal scenario package
+- Assigned D4-C ambiguity packet
+- Ambiguity Resolution Brief template
+- Stakeholder Update Video guide
+
+## Outcome Artifacts You Get
+
+- Ambiguity Resolution Brief
+- Clarification question
+- Bounded assumptions
+- Stakeholder Decision Update
+- Safe execution decision
+
 ## Decision Options
 
 Your final decision must be one of:
