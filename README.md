@@ -93,8 +93,10 @@ Use:
 Submit only:
 
 1. Ambiguity Resolution Brief
-2. 3-minute Stakeholder Update Video
-3. Founder viva
+2. [Stakeholder Decision Update](./submission-templates/stakeholder-decision-update-template.md)
+3. [Safe Execution Decision](./submission-templates/safe-execution-decision-template.md)
+4. 3-minute Stakeholder Update Video
+5. Founder viva
 
 No pair worksheet. No reflection. No separate AI audit. No long API spec.
 
